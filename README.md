@@ -1,5 +1,5 @@
 # awesome-dev ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-*An awesome list of developer software*
+***An awesome list of developer software***
 
 [Acode](https://play.google.com/store/apps/details?id=com.foxdebug.acode) ~ Code editor IDE application on Android \
 [Coursera](https://www.coursera.org/) ~ A leading destination for online courses \
